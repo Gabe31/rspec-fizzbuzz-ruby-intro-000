@@ -7,7 +7,7 @@ end
     return "Buzz"
 end
 
-  if int % 3 == 0 && 5 == 0
+  if int % 3 == 0 && int 5 == 0
     return "Fizzbuzz"
   end
 end
